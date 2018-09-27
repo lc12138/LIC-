@@ -1,2 +1,2 @@
-Git 版本控制工具是非常不错的一款软件
-Lic is a good man
+Git 版本控制工具是非常不错的一款软件,我刚刚开始学习。
+Lic is a good man,Lic is very good man.
